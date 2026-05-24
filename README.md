@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
   <title>My Website</title>
@@ -6,7 +5,7 @@
 <body>
 
   <h1>My First Website</h1>
-  <p>ini website pertama gue pakai GitHub Pages</p>
+  <p>first try</p>
 
   <h2>About Me</h2>
   <p>tulis tentang diri kamu di sini</p>
